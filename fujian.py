@@ -8,9 +8,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 
 # 第三方 SMTP 服务
-mail_host="smtp.163.com"  #设置服务器
-mail_user="testxxx"    #用户名
-mail_pass="testxxx2"   #口令 
+#mail_host="smtp.163.com"  #设置服务器
+#mail_user="testxxx"    #用户名
+#mail_pass="testxxx2"   #口令 
 
 # 指定sender和rcpt
 sender = 'testxxx@163.com'
